@@ -1,2 +1,2 @@
 <?php
-TEST Mathieu 16/11
+exit('TEST');
